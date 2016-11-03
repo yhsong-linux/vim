@@ -1,1 +1,3 @@
 # vim
+Installed integrations
+
